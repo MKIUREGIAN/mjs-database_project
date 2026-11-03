@@ -15,3 +15,11 @@ pip install -r requirements.txt
 - experiments/ queries and plan outputs
 - docs/ notes and report
 EOF
+
+## Setup
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
