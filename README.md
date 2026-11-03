@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # The Optimizer, Opened Up
 
 Course: Databases
