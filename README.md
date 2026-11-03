@@ -1,1 +1,2 @@
-# mjs-database_project
+winget install GitHub.cli
+gh auth login
