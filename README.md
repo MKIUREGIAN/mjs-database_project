@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+ HEAD
 # The Optimizer, Opened Up
-=======
-<<<<<<< HEAD
+
+ HEAD
 The Optimizer, Opened Up
->>>>>>> 8abb377 (Initial project structure)
+8abb377 (Initial project structure)
 
 Course: Databases
 
@@ -17,15 +17,15 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-<<<<<<< HEAD
+ HEAD
 ## Structure
 - `src/` code
 - `data/` dataset or generation scripts
 - `experiments/` queries and plan outputs
 - `docs/` notes and report
-=======
+
 Structure:
-=======
+
 # The Optimizer, Opened Up
 
 Course: Databases
@@ -38,12 +38,12 @@ python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
 ## Structure
->>>>>>> 778cfa6 (Initial project structure)
+778cfa6 (Initial project structure)
 - src/ code
 - data/ dataset or generation scripts
 - experiments/ queries and plan outputs
 - docs/ notes and report
-<<<<<<< HEAD
+ HEAD
 EOF
 =======
 >>>>>>> 778cfa6 (Initial project structure)
